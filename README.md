@@ -1,8 +1,8 @@
 # Bootstrapple
 
-[Bootstrapple](https://tirgei.github.io/Bootstrapple) is a mockup of the [Apple](https://www.apple.com) website made using [Bootstrap Studio](https://bootstrapstudio.io).
+[Bootstrapple](https://bootstrapple.bss.design) is a mockup of the [Apple](https://www.apple.com) website made using [Bootstrap Studio](https://bootstrapstudio.io).
 
-You can view the demo website [here](https://tirgei.github.io/Bootstrapple).
+You can view the demo website [here](https://bootstrapple.bss.design).
 
 ### License
 ```
